@@ -36,3 +36,23 @@ p {
     background-color: azure;
     
 }
+
+.pcontainer {
+    max-width: 100rem;
+    margin-inline: auto;
+    padding-inline: 2rem;
+}
+.grid_productos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+.pdrcts {
+    aspect-ratio: 1 / 1.5;
+}
+img,
+picture {
+    max-width: 100%;
+    display: block;
+}
+
