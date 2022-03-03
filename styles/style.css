@@ -1,3 +1,4 @@
+
 .PTitle{
     font-family: 'Supermercado One', cursive;
     font-size: 3em;
@@ -14,24 +15,20 @@ nav {
     padding: 40px;
 
 }
-.navegacion {
+/* .navegacion {
     color: rebeccapurple;
     padding: 30px;
     box-shadow: 3px;
     flex-direction: row;
-}
+    
+    
+}*/
 p {
     color:aqua;
     padding: 40px;
     border: 3px solid blueviolet;
 }
-.fcontainer {
-    display: flex;
-    flex-direction: row;
-    background-color: black;
-    padding: 10px;
 
-}
 .fcontainer div{
     background-color: azure;
     
