@@ -3,26 +3,22 @@
     font-family: 'Supermercado One', cursive;
     font-size: 3em;
     line-height: 0;
+    text-align: center;
+    color: white;
     
 }
 header {
-    background-color: blueviolet;
+    background-color: rgb(0, 0, 0);
     padding: 50px;
     margin-top: 0px;
 }
 nav {
-    color: black;
-    padding: 40px;
-
+    color: rgb(255, 255, 255);
+    padding: 0px;
+    margin-top: 0px;
+    background-color: black;
 }
-/* .navegacion {
-    color: rebeccapurple;
-    padding: 30px;
-    box-shadow: 3px;
-    flex-direction: row;
-    
-    
-}*/
+
 p {
     color:aqua;
     padding: 40px;
